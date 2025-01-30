@@ -1,32 +1,96 @@
-# Sales-Finance-Analytics
-This repository contains dynamic Excel reports designed for AtliQ's financial and sales analytics. These reports leverage advanced Excel techniques to provide actionable insights and support data-driven decision-making.
+# Atliq Hardware Business Intelligence Reports  
 
-📊 Sales Insights:
+## Introduction  
+Atliq Hardware is a hardware company specializing in:  
+- **Personal Computers**  
+- **Printers**  
+- **Mice and Keyboards**  
+- **Peripheral Devices**  
 
-1) Customer Impact Analysis: Tracked individual customer contributions to overall sales, revealing performance variations over time.
-2) Market Target vs. Actual: Evaluated the alignment of market execution with organizational goals, uncovering areas where targets were exceeded or unmet.
+We manufacture and distribute products through:  
+- Retailers like **Croma** and **Best Buy**  
+- Online platforms like **Flipkart** and **Amazon**
 
-💵 Financial Analysis Highlights:
+---
 
-1) Yearly Profit & Loss: Summarized revenue and expense trends over fiscal years to provide a high-level financial overview.
-2) Monthly Financial Trends: Monitored monthly profit and loss to detect seasonal patterns and insights.
-3) Market-Level Financial Review: Assessed profitability across various regions for targeted financial decisions.
-4) Strategic Market Targets: Prioritized high-potential markets to optimize growth and maximize ROI.
+## Problem Statement  
+Create an **interactive business intelligence dashboard** called the **Sales and Finance Analytics Report**, designed to generate actionable insights for strategic decision-making at Atliq Hardware.
 
-Project Outcomes and Learnings:
+---
 
-• Unified Data View: Consolidated sales and financial metrics to provide a holistic perspective on performance.
-• Trend Discovery: Identified recurring patterns in sales, aiding in more accurate forecasting and strategy development.
-• Customer Behavior Analysis: Gained actionable insights into customer trends, enabling better-targeted business strategies.
-• Performance Optimization: Highlighted underperforming markets, guiding resource reallocation and strategic adjustments.
-• Enhanced Profitability Understanding: Analyzed profit drivers across departments and timelines for improved financial decisions.
+## Sales Analysis  
 
+### Objectives  
+- **Top 10 Products with Sales Growth**: Identify products with the largest sales growth from 2020 to 2021.  
+- **Division Sales Report**: Show revenue growth between 2020 and 2021.  
+- **Top and Bottom 5 Sold Products**: Highlight the best and worst-selling products.  
+- **New Products in 2021**: List and evaluate newly launched products.  
+- **Top 5 Countries by Sales in 2021**: Analyze high-performing regions.
 
-Technical Skills Demonstrated:
-✅ Applied ETL workflows (Extract, Transform, Load) to consolidate data.
-✅ Cleaned and merged datasets using advanced Excel techniques (XLOOKUP, INDEX-MATCH, etc.).
-✅ Leveraged statistical tools like correlation and variance to generate deeper insights.
-✅ Utilized Power Query for efficient data transformation and calculated fiscal periods.
-✅ Designed robust data models in Power Pivot with strong inter-table relationships.
-✅ Developed calculated fields and measures using DAX to enable advanced reporting.
-✅ Built familiarity with VBA to enhance functionality and streamline processes.
+### Reports and Insights  
+
+#### 1. **Top 10 Products with Sales Growth**  
+   - Example products: **AQ Electron 4 3600 Desktop Processor** and **AQ Pen Drive DRC**.
+
+#### 2. **Division Sales Report**  
+   - PCs: $40.1M → $165.8M (2020-2021).  
+   - Accessories: $105.2M → $338.4M (**321.5% increase**).  
+   - Networking: $51.4M → $94.7M (**184.4% increase**).  
+
+#### 3. **Top and Bottom 5 Sold Products**  
+   - **Top 5**: Products like **AQ Master wired x1 Ms** performed best.  
+   - **Bottom 5**: Areas for product improvement.  
+
+#### 4. **New Products in 2021**  
+   - 16 new products launched. Example: **AQ Qwerty** performed exceptionally well.  
+
+#### 5. **Top 5 Sales Countries in 2021**  
+   - **India** leads with $161.3M in sales.  
+   - Followed by USA, South Korea, UK, and Canada.
+
+---
+
+## Financial Analysis  
+
+### Objectives  
+- **Customer Net Sales Performance Report**: Analyze revenue by customers.  
+- **Market Performance vs. Targets**: Compare sales efforts against goals.  
+- **Yearly & Quarterly P&L Reports**: Monitor financial trends.  
+- **Market-Specific P&L Reports**: Assess profitability by region.  
+- **Quarterly Gross Margin %**: Measure profitability by location.
+
+### Reports and Insights  
+
+#### 1. **Customer Net Sales Performance**  
+   - Revenue increased from $87.5M (2019) to $598.9M (2021), a **304.5% growth**.
+
+#### 2. **Market Performance vs. Targets**  
+   - Some markets exceeded targets; others showed areas for improvement.  
+
+#### 3. **Yearly P&L Report**  
+   - Net Sales grew **204.5%** in three years, with strong cost management.
+
+#### 4. **Market-Specific P&L Report**  
+   - High-profit regions: **Japan** and **New Zealand**.  
+   - Low-profit regions: **Germany**.  
+
+#### 5. **Quarterly Gross Margin %**  
+   - Profit margin variations by location to guide strategy.
+
+---
+
+## Key Takeaways  
+
+- **Customer Sales Growth**: Sales grew 304% from 2019 to 2021.  
+- **Top Products**: Continued success for AQ Electron and AQ Master.  
+- **New Products**: Strong performance of launches like AQ Qwerty.  
+- **Top Markets**: India and USA lead in sales.  
+- **Profitability**: High-growth divisions like PCs and profitable regions like Japan offer strategic opportunities.  
+
+---
+
+## Repository Details  
+
+This repository contains the Power BI dashboard file, insights, and documentation for Atliq Hardware's **Business Intelligence Reports**.  
+
+Feel free to explore and contribute!  
