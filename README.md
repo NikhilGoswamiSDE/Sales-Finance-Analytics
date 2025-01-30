@@ -33,9 +33,9 @@ Create an **interactive business intelligence dashboard** called the **Sales and
    - Example products: **AQ Electron 4 3600 Desktop Processor** and **AQ Pen Drive DRC**.
 
 #### 2. **Division Sales Report**  
-   - PCs: $40.1M → $165.8M (2020-2021).  
-   - Accessories: $105.2M → $338.4M (**321.5% increase**).  
-   - Networking: $51.4M → $94.7M (**184.4% increase**).  
+   - PCs: $40.1M → $165.8M (**313.7% increase**).  
+   - Accessories: $105.2M → $338.4M (**221.5% increase**).  
+   - Networking: $51.4M → $94.7M (**84.4% increase**).  
 
 #### 3. **Top and Bottom 5 Sold Products**  
    - **Top 5**: Products like **AQ Master wired x1 Ms** performed best.  
@@ -46,7 +46,7 @@ Create an **interactive business intelligence dashboard** called the **Sales and
 
 #### 5. **Top 5 Sales Countries in 2021**  
    - **India** leads with $161.3M in sales.  
-   - Followed by USA, South Korea, UK, and Canada.
+   - Followed by the USA, South Korea, the UK, and Canada.
 
 ---
 
@@ -70,27 +70,23 @@ Create an **interactive business intelligence dashboard** called the **Sales and
 #### 3. **Yearly P&L Report**  
    - Net Sales grew **204.5%** in three years, with strong cost management.
 
-#### 4. **Market-Specific P&L Report**  
-   - High-profit regions: **Japan** and **New Zealand**.  
-   - Low-profit regions: **Germany**.  
-
 #### 5. **Quarterly Gross Margin %**  
-   - Profit margin variations by location to guide strategy.
+   - Profit margin variations to guide strategy.
 
 ---
 
 ## Key Takeaways  
 
 - **Customer Sales Growth**: Sales grew 304% from 2019 to 2021.  
-- **Top Products**: Continued success for AQ Electron and AQ Master.  
+- **Top Products**: Continued success for AQ Electron.  
 - **New Products**: Strong performance of launches like AQ Qwerty.  
-- **Top Markets**: India and USA lead in sales.  
-- **Profitability**: High-growth divisions like PCs and profitable regions like Japan offer strategic opportunities.  
+- **Top Markets**: India and the USA lead in sales.  
+- **Profitability**: High-growth divisions like PCs offer strategic expansion opportunities.  
 
 ---
 
 ## Repository Details  
 
-This repository contains the Power BI dashboard file, insights, and documentation for Atliq Hardware's **Business Intelligence Reports**.  
+This repository contains the Excel report files, insights, and documentation for Atliq Hardware's **Business Intelligence Reports**.  
 
 Feel free to explore and contribute!  
